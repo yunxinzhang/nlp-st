@@ -1,0 +1,10 @@
+﻿  Main.cpp
+Main.cpp(8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Main.cpp(9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  4 of 193 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  min_edit_distance.vcxproj -> D:\bjznworkspace\alg\min_edit_distance\x64\Release\min_edit_distance.exe
+  min_edit_distance.vcxproj -> D:\bjznworkspace\alg\min_edit_distance\x64\Release\min_edit_distance.pdb (Full PDB)
