@@ -1,0 +1,10 @@
+﻿  Main.cpp
+d:\bjznworkspace\alg\spelling\spelling\../../min_edit_distance/min_edit_distance/med.h(7): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bjznworkspace\alg\spelling\spelling\../../min_edit_distance/min_edit_distance/med.h(8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  8 of 1179 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    13 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  spelling.vcxproj -> D:\bjznworkspace\alg\spelling\x64\Release\spelling.exe
+  spelling.vcxproj -> D:\bjznworkspace\alg\spelling\x64\Release\spelling.pdb (Full PDB)
